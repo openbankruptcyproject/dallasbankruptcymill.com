@@ -5,11 +5,12 @@
 dallasbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Dallas Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://dallasbankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Dallas: Red Flags and What to Watch For: https://dallasbankruptcymill.com/chapter-13-dallas.html
 - Chapter 7 Bankruptcy in Dallas: Costs, Timeline and What to Know: https://dallasbankruptcymill.com/chapter-7-dallas.html
 - How to Check Your Dallas Bankruptcy Attorney's Track Record: https://dallasbankruptcymill.com/how-to-check.html
+- Dallas Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://dallasbankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Dallas: https://dallasbankruptcymill.com/warning-signs.html
+- Privacy Policy: https://dallasbankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
